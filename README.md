@@ -5,7 +5,7 @@ Chainerrl and stable baseline are reinforcement learning libraries. The Chainerr
 
 The stable baseline implementation of DeepRMSA by Carlos Natalino is here: https://github.com/carlosnatalino/optical-rl-gym/blob/main/examples/stable_baselines3/DeepRMSA.ipynb
 
-Here, I implemented it in pfrl and found that pfrl provides faster convergence. 
+Here, I implemented it in pfrl and found that pfrl provides faster convergence than SB3. 
 
 To run the PFRL implementation, first install the optical-rl-gym package.
 Then move the files in PFRL (not SB3) to the directory of the optical-rl-gym package.
